@@ -1,8 +1,0 @@
-{
-    "_build_document": 59.328,
-    "TableStructureModel.__call__": 0.0040000000000048885,
-    "LayoutModel.__call__": 13.533999999999999,
-    "EasyOcrModel.__call__": 45.778,
-    "PagePreprocessingModel.__call__": 2.322,
-    "StandardPdfPipeline._assemble_document": 0.838
-}
